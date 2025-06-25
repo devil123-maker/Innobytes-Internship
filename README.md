@@ -1,8 +1,6 @@
 # Innobytes-Internship
 Data Analytics
 
-Dataset: <a href=" https://drive.google.com/file/d/1YrjYKtS1WHmINL6eafRsrDzrZaw2_WvX/view?usp=sharing">D</a>
-
 Key Objectives:
 1. Sales Overview: Understand the overall sales performance, trends, and patterns over time.
 2. Product Analysis: Analyze the distribution of product categories, sizes, and quantities sold to identify popular
@@ -14,4 +12,4 @@ factors.
 6. Business Insights: Provide actionable insights and recommendations based on the analysis to optimize sales
 strategies, improve customer satisfacion, and enhance overall business performance.
 
-Cleaned Data: <a href="https://1drv.ms/f/c/accb30084ba7f31e/Eh7zp0sIMMsggKxqAAAAAAAB1t4q5oaXMkvIYvGgbwBSow?e=3khqVr">c</a>
+Cleaned Data: <a href="https://1drv.ms/f/c/accb30084ba7f31e/Eh7zp0sIMMsggKxqAAAAAAAB1t4q5oaXMkvIYvGgbwBSow?e=3khqVr">Reports </a>
